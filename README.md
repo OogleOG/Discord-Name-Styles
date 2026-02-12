@@ -2,7 +2,7 @@
 
 A web-based tool for previewing Discord's Nitro Display Name Styles. See exactly how your name will look with different effects, colours, and fonts — rendered in a realistic Discord chat environment.
 
-**[Live Demo →]([https://yourusername.github.io/discord-name-styles/](https://oogleog.github.io/Discord-Name-Styles/))**
+**[Live Demo →]](https://oogleog.github.io/Discord-Name-Styles/))**
 
 ![Discord Display Name Styles Preview](https://img.shields.io/badge/Discord-Name%20Styles-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
